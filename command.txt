@@ -1,0 +1,3 @@
+python tools/train_ours.py --cfg configs/cifar100/mlld_ours/vgg13_vgg8.yaml
+
+python tools/train_ours.py --cfg configs/cifar100/crld_ours/res110_res32.yaml
